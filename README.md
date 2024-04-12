@@ -1,5 +1,5 @@
 # 💫 About Me:
-3rd Year Bachelor's of Computer Science (Software Engineering) with Honours, Universiti Teknologi Malaysia (UTM) Student.<br>Currently looking for an internship opportunities and preparing for Final year project.<br>A pure tech guy, PC Nerd💻, and Car Lover🏎️
+3rd Year Bachelor's of Computer Science (Software Engineering) with Honours, Universiti Teknologi Malaysia (UTM) Student.<br>Currently looking for internship opportunities and preparing for Final year project.<br>A Pure Tech Guy, PC Nerd💻, and Car Lover🏎️
 
 
 ## 🌐 Socials:
