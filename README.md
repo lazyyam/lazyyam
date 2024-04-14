@@ -1,7 +1,7 @@
 # 💫 About Me:
 3rd Year Bachelor's of Computer Science (Software Engineering) with Honours, Universiti Teknologi Malaysia (UTM) Student.<br>Currently looking for internship opportunities and preparing for Final year project.<br>A Pure Tech Guy, PC Nerd💻, and Car Lover🏎️
 
-Check out my Resume: ![Click Here](https://drive.google.com/file/d/1cHvFOsz4Bf5FQpVyN5ZIbCf45O-DewmH/view)
+Check out my Resume: [Click Here](https://drive.google.com/file/d/1cHvFOsz4Bf5FQpVyN5ZIbCf45O-DewmH/view)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com//profile.php?id=100007491229439) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yam_0623) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//yam-yuan-zhan-1a22b4257/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lazyyam7953) 
